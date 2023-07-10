@@ -23,11 +23,11 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', indexRouter);
 
 app.use('/api/users', (req,res) => {
-  res.json(fileSystem.readFileSync('data/users.json'));
+  res.json(JSON.parse(fileSystem.readFileSync('data/users.json')));
 });
 
 app.use('/api/ads', (req,res) => {
-  res.json(fileSystem.readFileSync('data/advertisements.json'));
+  res.send(fileSystem.readFileSync('data/advertisements.json'));
 });
 
 // catch 404 and forward to error handler

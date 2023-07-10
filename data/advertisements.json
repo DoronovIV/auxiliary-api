@@ -5,7 +5,14 @@
         "description": "Mint House at 70 Pine offers accommodation in a historic landmark building in New York, 700 metres from Battery Park. Free WiFi access is offered.",
         "price": "417.0",
         "area": "42",
-        "roomAmount": "1"
+        "roomAmount": "1",
+        "imagePathList": [
+            "../assets/img/1/1-1",
+            "../assets/img/1/1-2",
+            "../assets/img/1/1-3",
+            "../assets/img/1/1-4",
+            "../assets/img/1/1-5"
+        ]
     },
     {
         "id": "2",
@@ -13,7 +20,14 @@
         "description": "Located in New York, one mile from Bloomingdales and 1.6 miles from NYU – New York University, 1830’s Historic Merchant House on the park LES offers air conditioning. The property features city views and is 1.7 miles from Brooklyn Bridge and 1.8 miles from National September 11 Memorial & Museum.",
         "price": "630.2",
         "area": "48",
-        "roomAmount": "1"
+        "roomAmount": "1",
+        "imagePathList": [
+            "../assets/img/2/2-1",
+            "../assets/img/2/2-2",
+            "../assets/img/2/2-3",
+            "../assets/img/2/2-4",
+            "../assets/img/2/2-5"
+        ]
     },
     {
         "id": "3",
@@ -21,7 +35,14 @@
         "description": "Offering free WiFi and city views, Two Bedroom Harlem Apartment is a property located in New York. The apartment, set in a building dating from 1910, is 1.7 miles from Columbia University and 2 miles from Yankee Stadium.",
         "price": "565.4",
         "area": "43",
-        "roomAmount": "1"
+        "roomAmount": "1",
+        "imagePathList": [
+            "../assets/img/3/3-1",
+            "../assets/img/3/3-2",
+            "../assets/img/3/3-3",
+            "../assets/img/3/3-4",
+            "../assets/img/3/3-5"
+        ]
     },
     {
         "id": "4",
@@ -29,7 +50,14 @@
         "description": "Located in New York, a 12-minute walk from Columbia University and 2.6 miles from Metropolitan Museum of Art, Fully Furnished Entire Floor Apartment in Historic Harlem provides accommodations with amenities such as free WiFi and a flat-screen TV. This apartment is 2.7 miles from Yankee Stadium and 3.7 miles from Central Park.",
         "price": "797.4",
         "area": "59",
-        "roomAmount": "2"
+        "roomAmount": "2",
+        "imagePathList": [
+            "../assets/img/4/4-1",
+            "../assets/img/4/4-2",
+            "../assets/img/4/4-3",
+            "../assets/img/4/4-4",
+            "../assets/img/4/4-5"
+        ]
     },
     {
         "id": "5",
@@ -37,7 +65,14 @@
         "description": "Offering free WiFi and city views, Fabulous Fully Furnished Studio Minutes From Times Square! provides accommodations located in New York, just a 12-minute walk from Columbia University. This apartment is 2.6 miles from Metropolitan Museum of Art and 2.7 miles from Yankee Stadium.",
         "price": "682.9",
         "area": "54",
-        "roomAmount": "2"
+        "roomAmount": "2",
+        "imagePathList": [
+            "../assets/img/5/5-1",
+            "../assets/img/5/5-2",
+            "../assets/img/5/5-3",
+            "../assets/img/5/5-4",
+            "../assets/img/5/5-5"
+        ]
     },
     {
         "id": "6",
@@ -45,7 +80,14 @@
         "description": "Located in New York, a 12-minute walk from Columbia University and 2.6 miles from Metropolitan Museum of Art, Spacious Fully Furnished Harlem Apartment Near Morningside Park provides accommodations with amenities such as free WiFi and a flat-screen TV. This apartment is 4.8 miles from Strawberry Fields and 4.9 miles from Lincoln Center.",
         "price": "701.0",
         "area": "58",
-        "roomAmount": "2"
+        "roomAmount": "2",
+        "imagePathList": [
+            "../assets/img/6/6-1",
+            "../assets/img/6/6-2",
+            "../assets/img/6/6-3",
+            "../assets/img/6/6-4",
+            "../assets/img/6/6-5"
+        ]
     },
     {
         "id": "7",
@@ -53,7 +95,14 @@
         "description": "Located in New York, a 17-minute walk from Columbia University and 2.4 miles from Metropolitan Museum of Art, Richards Place provides accommodations with amenities such as free WiFi and a flat-screen TV. The property features garden views and is 2.5 miles from Yankee Stadium and 3.5 miles from Central Park.",
         "price": "824.3",
         "area": "67",
-        "roomAmount": "3"
+        "roomAmount": "3",
+        "imagePathList": [
+            "../assets/img/7/7-1",
+            "../assets/img/7/7-2",
+            "../assets/img/7/7-3",
+            "../assets/img/7/7-4",
+            "../assets/img/7/7-5"
+        ]
     },
     {
         "id": "8",
@@ -61,7 +110,14 @@
         "description": "Located in New York, Placemakr Wall Street has free WiFi, and guests can enjoy a fitness center, a shared lounge and a terrace.",
         "price": "812.3",
         "area": "64",
-        "roomAmount": "3"
+        "roomAmount": "3",
+        "imagePathList": [
+            "../assets/img/8/8-1",
+            "../assets/img/8/8-2",
+            "../assets/img/8/8-3",
+            "../assets/img/8/8-4",
+            "../assets/img/8/8-5"
+        ]
     },
     {
         "id": "9",
@@ -69,6 +125,13 @@
         "description": "Located in New York, a 10-minute walk from National September 11 Memorial & Museum and 0.6 miles from One World Trade Center, Sonder Battery Park has accommodations with free WiFi.",
         "price": "956.8",
         "area": "79",
-        "roomAmount": "4"
+        "roomAmount": "4",
+        "imagePathList": [
+            "../assets/img/9/9-1",
+            "../assets/img/9/9-2",
+            "../assets/img/9/9-3",
+            "../assets/img/9/9-4",
+            "../assets/img/9/9-5"
+        ]
     }
 ]
