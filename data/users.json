@@ -1,0 +1,16 @@
+[
+    {
+    "id": "1",
+    "login":"adminA",
+    "name": "Jester",
+    "email": "ipv2743@gmail.com",
+    "password": "admin"
+    },
+    {
+    "id": "2",
+    "login":"adminB",
+    "name": "Maverick",
+    "email": "sch9793@gmail.com",
+    "password": "admin"
+    }
+]

@@ -21,13 +21,13 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
-app.use('/users', usersRouter);
-app.use('/api/sign-in',(req,res) => {
-  res.send([1,2,3,4,5]);
+
+app.use('/api/users', (req,res) => {
+  res.json(fileSystem.readFileSync('data/users.json'));
 });
 
-app.use('/api/products', (req,res) => {
-  res.send(fileSystem.readFileSync('data/products.json'));
+app.use('/api/ads', (req,res) => {
+  res.json(fileSystem.readFileSync('data/advertisements.json'));
 });
 
 // catch 404 and forward to error handler
