@@ -3,135 +3,135 @@
         "id": "1",
         "title": "Mint House at 70 Pine",
         "description": "Mint House at 70 Pine offers accommodation in a historic landmark building in New York, 700 metres from Battery Park. Free WiFi access is offered.",
-        "price": "417.0",
+        "price": "1,417",
         "area": "42",
         "roomAmount": "1",
         "imagePathList": [
-            "../assets/img/1/1-1",
-            "../assets/img/1/1-2",
-            "../assets/img/1/1-3",
-            "../assets/img/1/1-4",
-            "../assets/img/1/1-5"
+            "/assets/img/apartments/1/1-1.jpg",
+            "/assets/img/apartments/1/1-2.jpg",
+            "/assets/img/apartments/1/1-3.jpg",
+            "/assets/img/apartments/1/1-4.jpg",
+            "/assets/img/apartments/1/1-5.jpg"
         ]
     },
     {
         "id": "2",
         "title": "1830’s Historic Merchant House on the park LES",
         "description": "Located in New York, one mile from Bloomingdales and 1.6 miles from NYU – New York University, 1830’s Historic Merchant House on the park LES offers air conditioning. The property features city views and is 1.7 miles from Brooklyn Bridge and 1.8 miles from National September 11 Memorial & Museum.",
-        "price": "630.2",
+        "price": "1,630",
         "area": "48",
         "roomAmount": "1",
         "imagePathList": [
-            "../assets/img/2/2-1",
-            "../assets/img/2/2-2",
-            "../assets/img/2/2-3",
-            "../assets/img/2/2-4",
-            "../assets/img/2/2-5"
+            "../assets/img/apartments/2/2-1.jpg",
+            "../assets/img/apartments/2/2-2.jpg",
+            "../assets/img/apartments/2/2-3.jpg",
+            "../assets/img/apartments/2/2-4.jpg",
+            "../assets/img/apartments/2/2-5.jpg"
         ]
     },
     {
         "id": "3",
         "title": "Two Bedroom Harlem Apartment",
         "description": "Offering free WiFi and city views, Two Bedroom Harlem Apartment is a property located in New York. The apartment, set in a building dating from 1910, is 1.7 miles from Columbia University and 2 miles from Yankee Stadium.",
-        "price": "565.4",
+        "price": "1,565",
         "area": "43",
         "roomAmount": "1",
         "imagePathList": [
-            "../assets/img/3/3-1",
-            "../assets/img/3/3-2",
-            "../assets/img/3/3-3",
-            "../assets/img/3/3-4",
-            "../assets/img/3/3-5"
+            "../assets/img/apartments/3/3-1.jpg",
+            "../assets/img/apartments/3/3-2.jpg",
+            "../assets/img/apartments/3/3-3.jpg",
+            "../assets/img/apartments/3/3-4.jpg",
+            "../assets/img/apartments/3/3-5.jpg"
         ]
     },
     {
         "id": "4",
         "title": "Fully Furnished Entire Floor Apartment in Historic Harlem",
         "description": "Located in New York, a 12-minute walk from Columbia University and 2.6 miles from Metropolitan Museum of Art, Fully Furnished Entire Floor Apartment in Historic Harlem provides accommodations with amenities such as free WiFi and a flat-screen TV. This apartment is 2.7 miles from Yankee Stadium and 3.7 miles from Central Park.",
-        "price": "797.4",
+        "price": "1,797",
         "area": "59",
         "roomAmount": "2",
         "imagePathList": [
-            "../assets/img/4/4-1",
-            "../assets/img/4/4-2",
-            "../assets/img/4/4-3",
-            "../assets/img/4/4-4",
-            "../assets/img/4/4-5"
+            "../assets/img/apartments/4/4-1.jpg",
+            "../assets/img/apartments/4/4-2.jpg",
+            "../assets/img/apartments/4/4-3.jpg",
+            "../assets/img/apartments/4/4-4.jpg",
+            "../assets/img/apartments/4/4-5.jpg"
         ]
     },
     {
         "id": "5",
         "title": "Fabulous Fully Furnished Studio Minutes From Times Square!",
         "description": "Offering free WiFi and city views, Fabulous Fully Furnished Studio Minutes From Times Square! provides accommodations located in New York, just a 12-minute walk from Columbia University. This apartment is 2.6 miles from Metropolitan Museum of Art and 2.7 miles from Yankee Stadium.",
-        "price": "682.9",
+        "price": "1,682",
         "area": "54",
         "roomAmount": "2",
         "imagePathList": [
-            "../assets/img/5/5-1",
-            "../assets/img/5/5-2",
-            "../assets/img/5/5-3",
-            "../assets/img/5/5-4",
-            "../assets/img/5/5-5"
+            "../assets/img/apartments/5/5-1.jpg",
+            "../assets/img/apartments/5/5-2.jpg",
+            "../assets/img/apartments/5/5-3.jpg",
+            "../assets/img/apartments/5/5-4.jpg",
+            "../assets/img/apartments/5/5-5.jpg"
         ]
     },
     {
         "id": "6",
         "title": "Spacious Fully Furnished Harlem Apartment Near Morningside Park",
         "description": "Located in New York, a 12-minute walk from Columbia University and 2.6 miles from Metropolitan Museum of Art, Spacious Fully Furnished Harlem Apartment Near Morningside Park provides accommodations with amenities such as free WiFi and a flat-screen TV. This apartment is 4.8 miles from Strawberry Fields and 4.9 miles from Lincoln Center.",
-        "price": "701.0",
+        "price": "1,701",
         "area": "58",
         "roomAmount": "2",
         "imagePathList": [
-            "../assets/img/6/6-1",
-            "../assets/img/6/6-2",
-            "../assets/img/6/6-3",
-            "../assets/img/6/6-4",
-            "../assets/img/6/6-5"
+            "../assets/img/apartments/6/6-1.jpg",
+            "../assets/img/apartments/6/6-2.jpg",
+            "../assets/img/apartments/6/6-3.jpg",
+            "../assets/img/apartments/6/6-4.jpg",
+            "../assets/img/apartments/6/6-5.jpg"
         ]
     },
     {
         "id": "7",
         "title": "Richards Place",
         "description": "Located in New York, a 17-minute walk from Columbia University and 2.4 miles from Metropolitan Museum of Art, Richards Place provides accommodations with amenities such as free WiFi and a flat-screen TV. The property features garden views and is 2.5 miles from Yankee Stadium and 3.5 miles from Central Park.",
-        "price": "824.3",
+        "price": "1,824",
         "area": "67",
         "roomAmount": "3",
         "imagePathList": [
-            "../assets/img/7/7-1",
-            "../assets/img/7/7-2",
-            "../assets/img/7/7-3",
-            "../assets/img/7/7-4",
-            "../assets/img/7/7-5"
+            "../assets/img/apartments/7/7-1.jpg",
+            "../assets/img/apartments/7/7-2.jpg",
+            "../assets/img/apartments/7/7-3.jpg",
+            "../assets/img/apartments/7/7-4.jpg",
+            "../assets/img/apartments/7/7-5.jpg"
         ]
     },
     {
         "id": "8",
         "title": "Placemakr Wall Street",
         "description": "Located in New York, Placemakr Wall Street has free WiFi, and guests can enjoy a fitness center, a shared lounge and a terrace.",
-        "price": "812.3",
+        "price": "1,812",
         "area": "64",
         "roomAmount": "3",
         "imagePathList": [
-            "../assets/img/8/8-1",
-            "../assets/img/8/8-2",
-            "../assets/img/8/8-3",
-            "../assets/img/8/8-4",
-            "../assets/img/8/8-5"
+            "../assets/img/apartments/8/8-1.jpg",
+            "../assets/img/apartments/8/8-2.jpg",
+            "../assets/img/apartments/8/8-3.jpg",
+            "../assets/img/apartments/8/8-4.jpg",
+            "../assets/img/apartments/8/8-5.jpg"
         ]
     },
     {
         "id": "9",
         "title": "Sonder Battery Park",
         "description": "Located in New York, a 10-minute walk from National September 11 Memorial & Museum and 0.6 miles from One World Trade Center, Sonder Battery Park has accommodations with free WiFi.",
-        "price": "956.8",
+        "price": "2,756",
         "area": "79",
         "roomAmount": "4",
         "imagePathList": [
-            "../assets/img/9/9-1",
-            "../assets/img/9/9-2",
-            "../assets/img/9/9-3",
-            "../assets/img/9/9-4",
-            "../assets/img/9/9-5"
+            "../assets/img/apartments/9/9-1.jpg",
+            "../assets/img/apartments/9/9-2.jpg",
+            "../assets/img/apartments/9/9-3.jpg",
+            "../assets/img/apartments/9/9-4.jpg",
+            "../assets/img/apartments/9/9-5.jpg"
         ]
     }
 ]
